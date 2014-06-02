@@ -27,3 +27,30 @@ body {
 background: url('../img/stressed_linen.png');
 }
 
+.row {
+    background: #510000;
+}
+
+.logo {
+    background: none;
+    color: white;
+}
+
+.tablesmall table tbody tr td{
+    font-size: .5em;
+    line-height: .5em;
+    background: none;
+}
+
+ table tr:nth-of-type(even) {
+    background: none;
+}
+
+
+.sushimenu {
+    color: white;
+}
+
+img {
+    border-radius: 5px;
+}
