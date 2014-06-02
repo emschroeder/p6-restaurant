@@ -51,9 +51,10 @@ background: url('../img/stressed_linen.png');
     color: white;
 }
 
-img {
+/*img {
     border-radius: 5px;
 }
+*/
 
 .sushimenu .tabs dd > a {
     background: rgba(0, 0, 0, 0.5);

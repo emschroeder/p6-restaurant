@@ -7,4 +7,11 @@ $(document).ready(function(){
   
   // Your Scripts
 
+new Share(".element")
+
+
+
+
 });
+
+
